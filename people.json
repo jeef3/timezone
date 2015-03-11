@@ -4,5 +4,59 @@
     "avatar": "http://www.gravatar.com/avatar/68b99c3d440ad63009478c58b4ec25f3.png",
     "city": "Christchurch",
     "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Alan",
+    "avatar": "",
+    "city": "Christchurch",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Simon",
+    "avatar": "",
+    "city": "Christchurch",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Marc",
+    "avatar": "",
+    "city": "Christchurch",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Matt",
+    "avatar": "",
+    "city": "Christchurch",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Serge",
+    "avatar": "",
+    "city": "Christchurch",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Emma",
+    "avatar": "",
+    "city": "Christchurch",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Glenn",
+    "avatar": "",
+    "city": "Christchurch",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Karina",
+    "avatar": "",
+    "city": "Hastings",
+    "tz": "Pacific/Auckland"
+  },
+  {
+    "name": "Zac",
+    "avatar": "",
+    "city": "New York",
+    "tz": "America/New_York"
   }
 ]
